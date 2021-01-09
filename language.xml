@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Magento 2 Spanish (Bolivia) language pack
+ *
+ * @category   Language
+ * @package    es_BO
+ * @author     fasaro
+ */
+-->
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
+    <code>es_BO</code>
+    <vendor>fasaro</vendor>
+    <package>es_bo</package>
+</language>
